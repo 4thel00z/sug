@@ -32,3 +32,6 @@ This is an invocation example for sug:
 ```sh
 sug "myservice" /var/run/myservice "$(which myservice) --verbose" $(which myservice) $USER $USER 
 ```
+## License
+
+This project is licensed under the GPL-3 license.
