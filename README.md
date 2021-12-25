@@ -1,5 +1,7 @@
 # sug - systemd unit generator
 
+![sug.png](https://raw.githubusercontent.com/4thel00z/logos/master/sug.png)
+
 ## Motivation
 
 I am on a fresh server and want to have systemd unit. It has python installed.
